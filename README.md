@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # timezone-converter
 
 Convert times across timezones, show world clocks, and find meeting times.
