@@ -7,8 +7,11 @@
     "timezone-converter": "./index.js",
     "tzc": "./index.js"
   },
+  "scripts": {
+    "test": "node --test"
+  },
   "engines": {
-    "node": ">=18"
+    "node": ">=20"
   },
   "license": "MIT",
   "keywords": [
